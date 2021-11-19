@@ -1,5 +1,2 @@
 # lolzos-online
-lol
-
-current bugs:
-mouse hides
+Good for people who can't download LolzOS SB3 version.
